@@ -72,4 +72,20 @@ nav ul li ul li a{
 nav ul li ul li a:hover{
     background-color: #296b6b;
 
+
+
+
 }
+
+.höhe{
+    
+
+
+}
+
+.carousel-inner > .carousel-item >img{
+    width: 500px;
+    height: 350px;
+
+}
+
